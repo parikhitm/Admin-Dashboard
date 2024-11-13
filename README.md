@@ -6,4 +6,4 @@ This project is a simple Admin Dashboard created as part of learning CSS Grid. T
  - HTML
  - CSS
 
- [See The Live Demo.](https://parikhitm.githup.io/Admin-Dashboard/)
+ [See The Live Demo.](https://parikhitm.github.io/Admin-Dashboard/)
